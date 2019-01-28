@@ -42,6 +42,8 @@ def problem1():
 # The DIFFERENCE result is 15
 # The PRODUCT result is 250
 # The DIVISION result is 2.5
+
+# KEY: This version is close but would not run
 def problem2():
     num1 = int(input("Enter a number "))
     num2 = int(input("Enter another number "))
